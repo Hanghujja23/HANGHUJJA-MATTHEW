@@ -1,2 +1,2 @@
 # HANGHUJJA-MATTHEW
-My site is meant to represent a casino and shows various details on the different games played in it plus some terms and conditions.
+The primary goal of my website is to provide users with an engaging and secure platform for online gambling, where they can participate in a variety of games of chance, such as slot machines, card games and other casino related activities.
